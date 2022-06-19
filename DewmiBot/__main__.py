@@ -76,7 +76,7 @@ PM_IMG = "https://telegra.ph/file/c0afb228c4b1fcefac3bb.jpg"
 HELP_STRINGS = f"""
 *⚊❮❮❮『 Ξ L I N Λ  HΞLP MΞИU 』❯❯❯⚊*
 
-Hay !👋 I'm  Ξ L I N Λ [👸](https://telegra.ph/file/c0afb228c4b1fcefac3bb.jpg)
+Hay !👋 I'm  Ξ L I N Λ [👸](https://i.ibb.co/VWXZQdM/68747470733a2f2f74656c656772612e70682f66696c652f3738393163356138656230656539333764663863642e6a7067.jpg)
 
 The following funtions will helpful to you to manage your group. 😇
 
